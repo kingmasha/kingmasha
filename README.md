@@ -1,18 +1,16 @@
 - 👋 Hi, I’m @kingmasha
 - What I can do:
-Front end GFX development PSD, AI, Photo Manipulation
+Front end Web, App, GFX development PSD, AI, Photo Manipulation
 BACKEND: < ORACLE > ) ( SQL , PL/SQL , SQLPLUS )
 
 
 
 🌱 I’m currently learning:
-AI / Self Learning )( PYTHON )( JAVA )( C++ )
+( Currently learning )( PYTHON )( JS )( C / C++ ) ( NODE ) ( DART ) 
 
 - 💞️ I’m looking to collaborate on algorythmic AI learning, With Binary inputs.
 
 - 📫 How to reach me ... 
 Telegram: @kingmasha75
-Discord: KingMasha$8107
-E-mail- vix75mafia@gmail.com
 
 
