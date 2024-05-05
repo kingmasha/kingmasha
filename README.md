@@ -1,16 +1,7 @@
-- 👋 Hi, I’m @kingmasha
+- 👋 Hi, I’m Masha
 - What I can do:
-Front end Web, App, GFX development PSD, AI, Photo Manipulation
-BACKEND: < ORACLE > ) ( SQL , PL/SQL , SQLPLUS )
-
-
-
+< Web > <App> <PSD> Photo Manipulation
+< ORACLE > ) ( SQL , PL/SQL , SQLPLUS )
+< Python > < GO > < NODE >
 🌱 I’m currently learning:
-( Currently learning )( PYTHON )( JS )( C / C++ ) ( NODE ) ( DART ) 
-
-- 💞️ I’m looking to collaborate on algorythmic AI learning, With Binary inputs.
-
-- 📫 How to reach me ... 
-Telegram: @kingmasha75
-
-
+( JS )( C / C++ )( DART )(BLOCKCHAIN)
