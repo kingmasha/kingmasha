@@ -1,23 +1,20 @@
-- 👋 Hi, I’m Masha
-## What I can work with!
+- 👋 Hi
+## Just Developing stuff. 
+Up to 2025 just for fun. 
+Everything through 2026 onward is $$$ gold. 
 
-## APPS + PLATFORMS 
-< ILLUSTRATOR > < PHOTOSHOP > < FIGMA > < WORDPRESS > < CURSOR > < VSCODE > < SUBSTANCE-PAINTER > < OBS >
-< ORACLE >  ( SQL , PL/SQL , SQLPLUS ) 
-< Python > < GO > < NODE > < JS > < HTML > < CSS >
-
-OS ( REDHAT LINUX, UBUNTU LINIX, KALI LINUX )
+90% private repo's
+the 10% I share are for portfolio visibility. 
 
 🌱 I’m currently learning:
-( C / C++ ) ( BLOCKCHAIN ) ( REACT )  
+AI engineering - Machine Leaning models - 
 
-## What I enjoy creating:
-Automation
-Data formulation and distribution.
-Discord Bots
-Telegram bots
-Exploits
-
+Cyber Security:
+CompTIA Pentest+ Certified
+CISCO CEH 
+Security+
+CySa for the heck of it
+OSCP on the way.
 
 
 
