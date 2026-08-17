@@ -1,6 +1,5 @@
 - 👋 Hi
-## Just Developing stuff. 
-Up to 2025 just for fun. 
+## Up to 2025 just for prac 
 Everything through 2026 onward is $$$ gold. 
 
 90% private repo's
